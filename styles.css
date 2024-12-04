@@ -11,6 +11,9 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+html {
+  scroll-behavior: smooth;
+}
 .top-section-wrapper {
   background-color: #001d37;
   padding-right: 16px;
